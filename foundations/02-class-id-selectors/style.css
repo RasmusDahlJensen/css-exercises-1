@@ -1,0 +1,19 @@
+.oddclass {
+    background-color: lightcoral;
+    font-family: Verdana, "Dejavu-Sans", sans-serif;
+}
+
+.coolerclass {
+    font-size: 24px;
+}
+
+#firstid {
+    color: blue;
+    font-size: 36px;
+}
+
+#scndid {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
